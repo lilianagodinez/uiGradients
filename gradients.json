@@ -3,6 +3,12 @@
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
     },
+ 
+    {
+      "name": "am",
+      "colors": ["#6FB5FC", "#60BDFE"]
+    }
+
     {
         "name": "Ver",
         "colors": ["#FFE000", "#799F0C"]
